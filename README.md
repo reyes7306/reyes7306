@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Edwin%20Eliseo%20Reyes&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=High%20School%20Teacher&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=Edwin%20Eliseo%20Reyes&fontSize=60&fontColor=000000&stroke=FFFFFF&animation=fadeIn&fontAlignY=40&desc=High%20School%20Teacher&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=reyes7306">
