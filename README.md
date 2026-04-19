@@ -46,17 +46,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/reyes7306">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reyes7306&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="reyes7306's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=reyes7306&theme=radical&hide_border=true&cache_seconds=86400" alt="reyes7306's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <a href="https://github.com/reyes7306">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyes7306&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
 </p>
 
 <picture>
